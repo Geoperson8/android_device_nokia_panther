@@ -297,6 +297,9 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     libnl \
     libwfdaac_vendor
+    
+#Face Unlock
+TARGET_FACE_UNLOCK_SUPPORTED := true
 
 #PRODUCT_BOOT_JARS += \
 #    WfdCommon
