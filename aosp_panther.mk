@@ -6,11 +6,11 @@
 
 $(call inherit-product, device/nokia/PAN_sprout/device.mk)
 
-# Inherit some common Lineage stuff.
-$(call inherit-product, vendor/lineage/config/common_full_phone.mk)
+# Inherit some common PixelExperience stuff.
+$(call inherit-product, vendor/aosp/config/common_full_phone.mk)
 
 # Device identifier. This must come after all inclusions.
-PRODUCT_NAME := lineage_panther
+PRODUCT_NAME := aosp_panther
 PRODUCT_DEVICE := PAN_sprout
 PRODUCT_BRAND := nokia
 PRODUCT_MODEL := Nokia 4.2
