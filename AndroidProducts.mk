@@ -5,9 +5,8 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_panther.mk
+    $(LOCAL_DIR)/aosp_panther.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_panther-user \
-    lineage_panther-userdebug \
-    lineage_panther-eng
+    aosp_panther-user \
+    aosp_panther-userdebug
