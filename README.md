@@ -1,4 +1,5 @@
-Copyright (C) 2018-2021 The PixelExperience Project
+Copyright (C) 2018-2021 The PixelExperience Project.
+
 Big thanks to @trautamaki for making this tree.
 
 Device configuration for Nokia 4.2
