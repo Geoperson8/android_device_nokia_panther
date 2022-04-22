@@ -1,4 +1,5 @@
-Copyright (C) 2018-2021 The LineageOS Project
+Copyright (C) 2018-2021 The PixelExperience Project
+Big thanks to @trautamaki for making this tree.
 
 Device configuration for Nokia 4.2
 =========================================
@@ -25,3 +26,5 @@ Selfie camera | 8 MP
 ## Device picture
 
 ![Nokia 4.2](https://images.ctfassets.net/wcfotm6rrl7u/2os9WLAM8yNgtnrSi24zCE/3a6c43e7998ed1c9f5fdf6d735671658/nokia_4_2-DTC-android_10-ok_google.png?w=348&h=720&fm=webp&f=center&fit=fill&q=88 "Nokia 4.2")
+
+
